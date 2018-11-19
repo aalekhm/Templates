@@ -1,0 +1,2 @@
+Tech Talk: C++ Advanced Topics in Templates
+	https://www.youtube.com/watch?v=X30OwlsMWak

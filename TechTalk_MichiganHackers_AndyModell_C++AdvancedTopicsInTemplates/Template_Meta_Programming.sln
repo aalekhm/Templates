@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Templates over Objects", "2. Templates over Objects\2. Templates over Objects.vcxproj", "{501AF270-9371-4E21-96DC-C31A486131F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. Template Function", "1. Template Function\1. Template Function.vcxproj", "{68A9D586-C51B-471D-8F01-4A0AF17F02B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3. Templates with non-types", "3. Templates with non-types\3. Templates with non-types.vcxproj", "{D9E99541-B83F-434C-BFED-3F4B61D6A6F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4. Template usages in STL", "4. Template usages in STL\4. Template usages in STL.vcxproj", "{D5663A51-5FC8-4C42-8267-AE609D2E5A85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5. TMP Basic Example", "5. TMP Basic Example\5. TMP Basic Example.vcxproj", "{ED749AA4-C3EE-4923-98B8-1D79E093D94B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. Variadic Templates", "6. Variadic Templates\6. Variadic Templates.vcxproj", "{327B171C-3E79-4C8F-8573-14488D4B8A01}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. Writing a Tuple", "7. Writing a Tuple\7. Writing a Tuple.vcxproj", "{141F3439-62CA-4274-B434-8A331AD1C1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501AF270-9371-4E21-96DC-C31A486131F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{501AF270-9371-4E21-96DC-C31A486131F7}.Debug|Win32.Build.0 = Debug|Win32
+		{501AF270-9371-4E21-96DC-C31A486131F7}.Release|Win32.ActiveCfg = Release|Win32
+		{501AF270-9371-4E21-96DC-C31A486131F7}.Release|Win32.Build.0 = Release|Win32
+		{68A9D586-C51B-471D-8F01-4A0AF17F02B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68A9D586-C51B-471D-8F01-4A0AF17F02B2}.Debug|Win32.Build.0 = Debug|Win32
+		{68A9D586-C51B-471D-8F01-4A0AF17F02B2}.Release|Win32.ActiveCfg = Release|Win32
+		{68A9D586-C51B-471D-8F01-4A0AF17F02B2}.Release|Win32.Build.0 = Release|Win32
+		{D9E99541-B83F-434C-BFED-3F4B61D6A6F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9E99541-B83F-434C-BFED-3F4B61D6A6F3}.Debug|Win32.Build.0 = Debug|Win32
+		{D9E99541-B83F-434C-BFED-3F4B61D6A6F3}.Release|Win32.ActiveCfg = Release|Win32
+		{D9E99541-B83F-434C-BFED-3F4B61D6A6F3}.Release|Win32.Build.0 = Release|Win32
+		{D5663A51-5FC8-4C42-8267-AE609D2E5A85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5663A51-5FC8-4C42-8267-AE609D2E5A85}.Debug|Win32.Build.0 = Debug|Win32
+		{D5663A51-5FC8-4C42-8267-AE609D2E5A85}.Release|Win32.ActiveCfg = Release|Win32
+		{D5663A51-5FC8-4C42-8267-AE609D2E5A85}.Release|Win32.Build.0 = Release|Win32
+		{ED749AA4-C3EE-4923-98B8-1D79E093D94B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED749AA4-C3EE-4923-98B8-1D79E093D94B}.Debug|Win32.Build.0 = Debug|Win32
+		{ED749AA4-C3EE-4923-98B8-1D79E093D94B}.Release|Win32.ActiveCfg = Release|Win32
+		{ED749AA4-C3EE-4923-98B8-1D79E093D94B}.Release|Win32.Build.0 = Release|Win32
+		{327B171C-3E79-4C8F-8573-14488D4B8A01}.Debug|Win32.ActiveCfg = Debug|Win32
+		{327B171C-3E79-4C8F-8573-14488D4B8A01}.Debug|Win32.Build.0 = Debug|Win32
+		{327B171C-3E79-4C8F-8573-14488D4B8A01}.Release|Win32.ActiveCfg = Release|Win32
+		{327B171C-3E79-4C8F-8573-14488D4B8A01}.Release|Win32.Build.0 = Release|Win32
+		{141F3439-62CA-4274-B434-8A331AD1C1D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{141F3439-62CA-4274-B434-8A331AD1C1D3}.Debug|Win32.Build.0 = Debug|Win32
+		{141F3439-62CA-4274-B434-8A331AD1C1D3}.Release|Win32.ActiveCfg = Release|Win32
+		{141F3439-62CA-4274-B434-8A331AD1C1D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
